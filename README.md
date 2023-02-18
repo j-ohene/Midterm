@@ -3,8 +3,11 @@
  About our Website 
 </head>
 <body>
-<h1> Harry Potter vs The Hunger Games</h1>
-<h2> About our Website </h2>
+<h1> Harry Potter vs. The Hunger Games</h1>
+<h2> Our Website </h2>
 </body>
-<p> This webpage is an argumentative page about whether The Hunger Games is a better series and franchise than Harry Potter. The hunger games follows Katniss and her journey as tribute in a battle royale style games and the revolution that results from it. The Harry Potter series follows the adventures of the namesake through their time at Hogwarts. The site uses HTML and CSS </p> 
+<p> 
+ Harry Potter and The Hunger Games changed the face of YA fiction, but where does Harry Potter reign supreme, or how is THG better than the boy wizard?
+ <i>Harry Potter and The Hunger Games</i> were each successful as books and movies. Their stories reached wide audiences with their magical fantasy charm or future dystopian intrigue. As different as the two franchises could be, some things were similar about them. Harry Potter and Katniss Everdeen each had to go on a journey of no return.
+ </p> 
 <html>
