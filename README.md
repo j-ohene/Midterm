@@ -1,6 +1,6 @@
 <html>
 <head>
- About our Website 
+ <title>Our Webiste: Harry Potter vs. The Hunger Games</title>
 </head>
 <body>
 <h1> Harry Potter vs. The Hunger Games</h1>
