@@ -1,10 +1,14 @@
 <html>
 <head>
- About our Website 
+Our Website: Harry Potter & The Hunger Games
 </head>
 <body>
-<h1> Harry Potter vs The Hunger Games</h1>
-<h2> About our Website </h2>
+<h1> Harry Potter vs. The Hunger Games</h1>
+<h2> Our Website </h2>
 </body>
-<p> This webpage is an argumentative page about whether The Hunger Games is a better series and franchise than Harry Potter. The hunger games follows Katniss and her journey as tribute in a battle royale style games and the revolution that results from it. The Harry Potter series follows the adventures of the namesake through their time at Hogwarts. The site uses HTML and CSS </p> 
+<p> 
+It is very difficult to judge which series is better as they are far diffrent in nature. The Harry Potter series is much longer, with the actors in the film growing up while shooting the film. While the Hunger Games is 4 films centered in a shorter amount of time. If the Hunger Games had 7 books and 8 movies, would it have been better?
+<br>
+Our website explains that the Hunger Games may not be so diffrent then the Harry Potter series. We compaired those similarities trying to determine who did it better. 
+</p> 
 <html>
